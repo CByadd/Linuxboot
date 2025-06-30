@@ -1,6 +1,6 @@
 #!/bin/bash
 
-KIOSK_URL="https://your-website-url.com"
+KIOSK_URL="https://adscape-player.vercel.app"
 LOGO_PATH="/etc/splash.png"
 
 echo "🔧 Updating system..."
